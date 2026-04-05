@@ -19,7 +19,7 @@ This repository contains the projects and exercises I completed during the **42 
 ---
 
 ## 🚀 The Experience
-The Piscine is more than just coding—it's a test of resilience. For 26 consecutive days, I faced challenges that required:
+The Piscine is more than just coding, it's a test of resilience. For 26 consecutive days, I faced challenges that required:
 * **Autonomy:** No teachers, no lectures. Just documentation, peers, and trial and error.
 * **The "Moulinette":** An automated grading system that demands 100% technical perfection. A single missing space or a memory leak equals a score of zero.
 * **Collaboration:** Deep engagement with the peer-evaluation system to both teach and learn.
