@@ -1,34 +1,67 @@
-# 42 Piscine - São Paulo Campus
+# 🏊 42 Piscine - São Paulo Campus
+> "A 26-day deep dive into C, logic, and extreme problem-solving."
 
-Welcome to my 42 Piscine repository! This contains all the projects and exercises I completed during the intensive 4-week C/Shell bootcamp at 42.
+[![42 São Paulo](https://img.shields.io/badge/42-São%20Paulo-000000?style=for-the-badge&logo=42)](https://www.42sp.org.br/)
+![Language](https://img.shields.io/badge/Language-C-A8B9CC?style=for-the-badge&logo=c)
+![Shell](https://img.shields.io/badge/Shell-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-## 🚀 About the Piscine
-The Piscine is a deep dive into the world of programming. For 26 consecutive days, I faced challenges ranging from basic Shell commands to complex C algorithms, all while following the "Peer-Learning" methodology.
+This repository contains the projects and exercises I completed during the **42 São Paulo Piscine**. This intensive 4-week bootcamp focuses on C programming, Unix system fundamentals, and the unique "Peer-Learning" methodology.
 
-- **Focus:** C Programming, Shell Scripting, Logic, and Problem Solving.
-- **Methodology:** No teachers, no classrooms. Just me, my peers, and a lot of caffeine.
-- **The "Moulinette":** An automated grading system that demands 100% perfection.
+---
+
+## 📑 Table of Contents
+* [The Experience](#-the-experience)
+* [Project Structure](#-project-structure)
+* [The 42 Rigor (The Norm)](#️-the-42-rigor-the-norm)
+* [How to Test](#-how-to-test)
+* [Key Takeaways](#-key-takeaways)
+
+---
+
+## 🚀 The Experience
+The Piscine is more than just coding—it's a test of resilience. For 26 consecutive days, I faced challenges that required:
+* **Autonomy:** No teachers, no lectures. Just documentation, peers, and trial and error.
+* **The "Moulinette":** An automated grading system that demands 100% technical perfection. A single missing space or a memory leak equals a score of zero.
+* **Collaboration:** Deep engagement with the peer-evaluation system to both teach and learn.
+
+---
 
 ## 📂 Project Structure
 
-| Folder | Description | Key Concepts |
+| Module | Category | Key Concepts |
 | :--- | :--- | :--- |
-| **Shell 00 & 01** | Unix Basics | Permissions, environment variables, finding files, scripts. |
-| **C 00 - C 06** | C Language | Pointers, recursion, strings, memory allocation (malloc). |
-| **Rush 00** | Group Project | Teamwork, logic puzzles, and code architecture. |
+| **Shell 00 & 01** | Unix Basics | CLI, permissions (`chmod`), `find`, `sed`, `awk`, networking flows. |
+| **C 00 - C 01** | C Basics | Basic functions, `write` syscall, pointers, and memory addressing. |
+| **C 02 - C 04** | Intermediate C | String manipulation, Arrays, Recursion, and base conversions (`atoi`, `putnbr`). |
+| **C 05 - C 06** | Advanced C | Computational math, command-line arguments (`argc/argv`). |
+| **Rush 00** | Group Project | Collaborative development under pressure and visual logic algorithms. |
+
+---
 
 ## 🛠️ The 42 Rigor (The Norm)
-All C code in this repository follows **"The Norm"** (the 42 coding standard). Some of the rules include:
-- No `for` loops allowed (only `while`).
-- Maximum of 25 lines per function.
-- No more than 5 functions per file.
-- All code must compile with: `-Wall -Wextra -Werror`.
-- No standard library functions allowed (everything built from scratch).
+All C code in this repository strictly follows **"The Norm"** (the 42 coding standard). 
 
-## 💻 How to Run
-To compile any of the C exercises, move into the exercise directory and run:
+> [!IMPORTANT]
+> **Key constraints included:**
+> * No `for`, `do...while`, `switch`, `case`, or `goto` allowed.
+> * Maximum of **25 lines** per function and **5 functions** per file.
+> * All variables must be declared at the top of the function.
+> * Strict compilation: `cc -Wall -Wextra -Werror`.
+> * Standard library functions are mostly forbidden (we build everything from scratch).
+
+---
+
+## 💻 How to Test
+To compile and test any exercise (e.g., C00, ex01):
+
 ```bash
-gcc -Wall -Wextra -Werror *.c -o program
+# Navigate to the exercise directory
+cd C00/ex01
+
+# Compile with the rigor flags
+gcc -Wall -Wextra -Werror main.c ft_putchar.c -o program
+
+# Run the binary
 ./program
 
 ---
