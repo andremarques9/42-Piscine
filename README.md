@@ -63,6 +63,7 @@ gcc -Wall -Wextra -Werror main.c ft_putchar.c -o program
 
 # Run the binary
 ./program
+```
 
 ---
 
