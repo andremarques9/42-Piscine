@@ -1,9 +1,9 @@
 # 🏊 42 Piscine - São Paulo Campus
 > "A 26-day deep dive into C, logic, and extreme problem-solving."
 
-[![42 São Paulo](https://img.shields.io/badge/-São%20Paulo-000000?style=for-the-badge&logo=42)](https://www.42sp.org.br/)
-![Language](https://img.shields.io/badge/Language-C-A8B9CC?style=for-the-badge&logo=c)
-![Shell](https://img.shields.io/badge/Shell-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+[![42 São Paulo](https://img.shields.io/badge/CAMPUS-SÃO%20PAULO-000000?style=for-the-badge&logo=42)](https://www.42sp.org.br/)
+![Language](https://img.shields.io/badge/LANGUAGE-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![Shell](https://img.shields.io/badge/SHELL-BASH-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 This repository contains the projects and exercises I completed during the **42 São Paulo Piscine**. This intensive 4-week immersion focuses on C programming, Unix system fundamentals, and the unique "Peer-Learning" methodology.
 
