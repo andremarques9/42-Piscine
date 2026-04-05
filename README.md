@@ -77,9 +77,11 @@ cc -Wall -Wextra -Werror main.c ft_putchar.c -o program_name
 ---
 
 ## ⚠️ Disclaimer
-This repository is for educational purposes and to showcase my progress during the 42 Piscine. 
-If you are currently a "Piscinier," I strongly encourage you to solve the challenges on your own. 
-"The easy way is the wrong way." 
+This repository is for educational purposes and to showcase my progress during the 42 Piscine. If you are currently a "Piscinier," I strongly encourage you to solve the challenges on your own.
+
+**"The easy way is the wrong way."**
+
+*Note: No project PDFs or official 42 materials are hosted here to respect intellectual property.*
 
 *Note: No project PDFs or official 42 materials are hosted here to respect intellectual property.*
 
