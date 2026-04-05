@@ -1,7 +1,7 @@
 # 🏊 42 Piscine - São Paulo Campus
 > "A 26-day deep dive into C, logic, and extreme problem-solving."
 
-[![42 São Paulo](https://img.shields.io/badge/-São%20Paulo-000000?style=for-the-badge&logo=42)](https://www.42sp.org.br/)
+[![42 São Paulo](https://img.shields.io/badge/42-São%20Paulo-000000?style=for-the-badge&logo=42)](https://www.42sp.org.br/)
 ![Language](https://img.shields.io/badge/Language-C-A8B9CC?style=for-the-badge&logo=c)
 ![Shell](https://img.shields.io/badge/Shell-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
