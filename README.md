@@ -85,4 +85,4 @@ This repository is for educational purposes and to showcase my progress during t
 
 ---
 
-“Success is not final, failure is not fatal: it is the courage to continue that counts.” - (Mostly just what I told myself every time I saw a red '0' on my dashboard).
+> “Success is not final, failure is not fatal: it is the courage to continue that counts.” - (Mostly just what I told myself every time I saw a red '0' on my dashboard).
