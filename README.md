@@ -67,4 +67,12 @@ gcc -Wall -Wextra -Werror main.c ft_putchar.c -o program_name
 
 ---
 
+## 🧠 Key Takeaways
+
+* **Low-Level Mastery:** Gained a deep understanding of how memory works (Stack vs. Heap) and how the computer executes code.
+* **Algorithm Development:** Implemented manual versions of functions that are usually taken for granted in modern high-level languages.
+* **Problem-Solving Mindset:** Developed the "Try Harder" attitude, learning to debug and refactor until the code is flawless.
+
+---
+
 “Success is not final, failure is not fatal: it is the courage to continue that counts.” - (Mostly just what I told myself every time I saw a red '0' on my dashboard).
