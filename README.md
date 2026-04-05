@@ -15,6 +15,7 @@ This repository contains the projects and exercises I completed during the **42 
 * [The 42 Rigor (The Norm)](#️-the-42-rigor-the-norm)
 * [How to Test](#-how-to-test)
 * [Key Takeaways](#-key-takeaways)
+* [Disclaimer](#️-disclaimer)
 
 ---
 
@@ -72,6 +73,15 @@ cc -Wall -Wextra -Werror main.c ft_putchar.c -o program_name
 * **Low-Level Mastery:** Gained a deep understanding of how memory works (Stack vs. Heap) and how the computer executes code.
 * **Algorithm Development:** Implemented manual versions of functions that are usually taken for granted in modern high-level languages.
 * **Problem-Solving Mindset:** Developed the "Try Harder" attitude, learning to debug and refactor until the code is flawless.
+
+---
+
+## ⚠️ Disclaimer
+This repository is for educational purposes and to showcase my progress during the 42 Piscine. 
+If you are currently a "Piscinier," I strongly encourage you to solve the challenges on your own. 
+"The easy way is the wrong way." 
+
+*Note: No project PDFs or official 42 materials are hosted here to respect intellectual property.*
 
 ---
 
