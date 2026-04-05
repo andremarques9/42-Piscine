@@ -5,7 +5,7 @@
 ![Language](https://img.shields.io/badge/Language-C-A8B9CC?style=for-the-badge&logo=c)
 ![Shell](https://img.shields.io/badge/Shell-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-This repository contains the projects and exercises I completed during the **42 São Paulo Piscine**. This intensive 4-week intensive immersion focuses on C programming, Unix system fundamentals, and the unique "Peer-Learning" methodology.
+This repository contains the projects and exercises I completed during the **42 São Paulo Piscine**. This intensive 4-week immersion focuses on C programming, Unix system fundamentals, and the unique "Peer-Learning" methodology.
 
 ---
 
