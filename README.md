@@ -59,10 +59,10 @@ To compile and test any exercise (e.g., C00, ex01):
 cd C00/ex01
 
 # Compile with the rigor flags
-gcc -Wall -Wextra -Werror main.c ft_putchar.c -o program
+gcc -Wall -Wextra -Werror main.c ft_putchar.c -o program_name
 
 # Run the binary
-./program
+./program_name
 ```
 
 ---
