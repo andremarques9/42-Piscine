@@ -83,8 +83,6 @@ This repository is for educational purposes and to showcase my progress during t
 
 *Note: No project PDFs or official 42 materials are hosted here to respect intellectual property.*
 
-*Note: No project PDFs or official 42 materials are hosted here to respect intellectual property.*
-
 ---
 
 “Success is not final, failure is not fatal: it is the courage to continue that counts.” - (Mostly just what I told myself every time I saw a red '0' on my dashboard).
